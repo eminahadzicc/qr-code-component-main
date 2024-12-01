@@ -35,6 +35,7 @@
 .een {
   font-size: 22px;
   line-height: 120%;
+  color: rgb(31, 49, 79);
 }
 
 .twee {
@@ -42,4 +43,5 @@
   font-weight: 250;
   line-height: 140%;
   letter-spacing: 0.2px;
+  color: rgb(104, 119, 141);
 }
